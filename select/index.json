@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "雑踏",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T21:42:59.457602Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雑踏",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_雑踏_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雑踏",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_雑踏_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Zattō [雑踏]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Zattō_[雑踏]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雑踏、僕らの街",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": true,
+      "path": "select/04_雑踏、僕らの街_トゲナシトゲアリ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雑踏",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_雑踏_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雑踏",
+      "artist": "eastern youth",
+      "has_synced": false,
+      "path": "select/06_雑踏_eastern_youth.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雑踏",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_雑踏_サカナクション.txt"
+    }
+  ]
+}
